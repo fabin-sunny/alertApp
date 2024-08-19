@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925743646812",
+    "project_id": "citizen-alert-9f1f3",
+    "storage_bucket": "citizen-alert-9f1f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925743646812:android:2102f622ffeb5dda6d3e99",
+        "android_client_info": {
+          "package_name": "com.example.alerts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJMBfIjlLiIVDLivoyUwJC-CBBD45Hfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
